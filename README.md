@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vb48&label=Profile%20views&color=0e75b6&style=flat" alt="vb48" /> </p>
 
-- 🔭 I’m currently working on **A wordcloud generator microservice**
+- 🔭 I’m currently working on **A Django Project**
 
-- 🌱 I’m currently learning **Microservices Architecture**
+- 🌱 I’m currently learning **Event Based Microservices Architecture**
 
 - 🤝 I’m looking for help with **Backend Development**
 

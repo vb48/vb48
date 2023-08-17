@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vaibhav.bijapur50@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/vb48/my_first_repo/blob/main/Vaibhav_Resume.pdf](https://github.com/vb48/my_first_repo/blob/main/Vaibhav_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/vb48/my_first_repo/blob/a8d8a62c51e721210121cfca9badb5edbe8fd16c/Vaibhav%20Resume%20.pdf](https://github.com/vb48/my_first_repo/blob/a8d8a62c51e721210121cfca9badb5edbe8fd16c/Vaibhav%20Resume%20.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vb48&label=Profile%20views&color=0e75b6&style=flat" alt="vb48" /> </p>
 
-- 🔭 I’m currently working on **Google Api**
+- 🔭 I’m currently working on **Insurance Portal**
 
-- 🌱 I’m currently learning **Microservices Architecture**
+- 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **FullStack Development**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Django Web Framework**
 
 - 📫 How to reach me **vaibhav.bijapur50@gmail.com**
 
